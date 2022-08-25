@@ -1,0 +1,9 @@
+#Navlink:hover {
+    background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+}
+
+#Navlink{
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding-left: 3%;
+}
